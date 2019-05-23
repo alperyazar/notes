@@ -14,6 +14,7 @@
 
 Welcome to source code repository of notes on computer architecture.
 
+
 This is a collection of mostly my personal notes.
 Notes are (will be) mixture of:
 
