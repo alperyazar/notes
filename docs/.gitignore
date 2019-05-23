@@ -1,0 +1,15 @@
+# inspired from https://github.com/mapnik/sphinx-docs/blob/master/.gitignore
+
+_build
+
+# Logs
+
+*.log
+
+# OS Generated
+
+Thumbs.db
+
+# Editor backup
+
+*~

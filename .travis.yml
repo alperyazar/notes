@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.6"
+
+before_script:
+  - cd docs
+  
+script:
+  - make html
+  - rm -rf _build
+  - sphinx-build -W -a -n -q -T -b html . _build
+  - rm -rf _build
+  
