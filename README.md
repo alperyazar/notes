@@ -1,32 +1,18 @@
 # ayazar's Notes
 
-[![Build Status](https://travis-ci.com/alperyazar/comp.arch-notes.svg?branch=master)](https://travis-ci.com/alperyazar/comp.arch-notes)
-[![Documentation Status](https://readthedocs.org/projects/comparch-notes/badge/?version=latest)](https://comparch-notes.readthedocs.io/en/latest/?badge=latest)
-[![Website](https://img.shields.io/website/https/comparch-notes.readthedocs.io.svg)](https://comparch-notes.readthedocs.io)
+[![Build Status](https://travis-ci.com/alperyazar/notes.svg?branch=master)](https://travis-ci.com/alperyazar/notes)
+[![Documentation Status](https://readthedocs.org/projects/ayazars-notes/badge/?version=latest)](http://notes.ayazar.com)
+[![Website](https://img.shields.io/website/https/ayazars-notes.readthedocs.io.svg)](http://notes.ayazar.com)
 
-[![GitHub License](https://img.shields.io/github/license/alperyazar/comp.arch-notes.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub License](https://img.shields.io/github/license/alperyazar/notes.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alperyazar/comp.arch-notes.svg)](https://github.com/alperyazar/comp.arch-notes/graphs/commit-activity)
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/alperyazar/comp.arch-notes.svg)](https://isitmaintained.com/project/alperyazar/comp.arch-notes)
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/alperyazar/comp.arch-notes.svg)](https://isitmaintained.com/project/alperyazar/comp.arch-notes)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/alperyazar/comp.arch-notes.svg)](https://github.com/alperyazar/comp.arch-notes)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alperyazar/notes.svg)](https://github.com/alperyazar/notes/graphs/commit-activity)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/alperyazar/notes.svg)](https://github.com/alperyazar/notes)
 
-Welcome to source code repository of notes on computer architecture.
+Welcome to source code repository of my personal notes.
 
-
-This is a collection of mostly my personal notes.
-Notes are (will be) mixture of:
-
-* Lecture notes on courses offered in universities or other institutions
-* Processor history
-* Paradigms like reconfigurable computing
-
-but **NOT** about:
-
-* Programming
-* VHDL/Verilog
-* Details of FPGA based designs
+I am an electronics engineer interested in computers. So expect that kind of content.
 
 My main purpose is to collect my notes in one place. I prefer to share them
 publicly because I believe that this will lead creation of more up-to-date
@@ -35,11 +21,13 @@ your comments and corrections.
 
 ## Reading Notes
 
-[![Website](https://img.shields.io/website/https/comparch-notes.readthedocs.io.svg)](https://comparch-notes.readthedocs.io)
+[![Website](https://img.shields.io/website/https/ayazars-notes.readthedocs.io.svg)](http://notes.ayazar.com)
 
 Notes are compiled automatically by readthedocs.org and hosted on
-https://comparch-notes.readthedocs.io/ OR
-https://comparch-notes.rtfd.io/
+http://notes.ayazar.com OR
+http://n.ayazar.com
+https://ayazars-notes.readthedocs.io/ OR
+https://ayazars-notes.rtfd.io/
 
 ## File Organization
 
@@ -93,7 +81,7 @@ then please read `CONTRIBUTING.md` page.
 
 ## License
 
-[![GitHub License](https://img.shields.io/github/license/alperyazar/comp.arch-notes.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub License](https://img.shields.io/github/license/alperyazar/notes.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 SPDX-License-Identifier:CC-BY-SA-4.0
 
