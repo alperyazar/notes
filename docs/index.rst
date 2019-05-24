@@ -10,6 +10,9 @@ ayazar's Notes
 .. image:: https://img.shields.io/github/forks/alperyazar/notes.svg?style=social
     :alt: GitHub forks
     :target: https://github.com/alperyazar/notes
+.. image:: https://img.shields.io/twitter/follow/alper_yazar.svg?style=social
+    :alt: Twitter Follow
+    :target: https://twitter.com/alper_yazar
 
 Welcome to my personal notes on ... things!
 
@@ -71,6 +74,8 @@ Pages
 Project Statistics
 ==================
 
+.. image:: https://img.shields.io/uptimerobot/ratio/m782742743-72280f8f0a5703bb7ec4570b.svg
+	:alt: Uptime Robot ratio (30 days)
 .. image:: https://img.shields.io/github/repo-size/alperyazar/notes.svg
     :alt: GitHub repo size in bytes
 .. image:: https://img.shields.io/github/commit-activity/m/alperyazar/notes.svg
