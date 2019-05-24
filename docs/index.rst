@@ -1,35 +1,21 @@
-.. comp.arch Notes documentation master file, created by
-   sphinx-quickstart on Sun Mar 10 22:58:26 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 ayazar's Notes
-================
+==============
 
-.. image:: https://img.shields.io/github/watchers/alperyazar/comp.arch-notes.svg?style=social
+.. image:: https://img.shields.io/github/watchers/alperyazar/notes.svg?style=social
     :alt: GitHub watchers
-    :target: https://github.com/alperyazar/comp.arch-notes
-.. image:: https://img.shields.io/github/stars/alperyazar/comp.arch-notes.svg?style=social
+    :target: https://github.com/alperyazar/notes
+.. image:: https://img.shields.io/github/stars/alperyazar/notes.svg?style=social
     :alt: GitHub stars
-    :target: https://github.com/alperyazar/comp.arch-notes
-.. image:: https://img.shields.io/github/forks/alperyazar/comp.arch-notes.svg?style=social
+    :target: https://github.com/alperyazar/notes
+.. image:: https://img.shields.io/github/forks/alperyazar/notes.svg?style=social
     :alt: GitHub forks
-    :target: https://github.com/alperyazar/comp.arch-notes
+    :target: https://github.com/alperyazar/notes
 
-Welcome to notes on computer architecture! [#]_
+Welcome to my personal notes on ... things!
 
 You are on the home page of set of public notes. This is a collection of mostly
-personal notes. Notes are (will be) mixture of:
-
-* Lecture notes on courses offered in universities or other institutions.
-* Processor history
-* Paradigms like reconfigurable computing
-
-but **NOT** about:
-
-* Programming
-* VHDL/Verilog
-* Details of FPGA based designs
+my personal notes. I am an electronics engineer interested in computers.
+So expect that kind of content.
 
 My main purpose is to collect my notes in one place. I prefer to share them
 publicly because I believe that this will lead creation of more up-to-date
@@ -85,24 +71,19 @@ Pages
 Project Statistics
 ==================
 
-.. image:: https://img.shields.io/github/repo-size/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/repo-size/alperyazar/notes.svg
     :alt: GitHub repo size in bytes
-.. image:: https://img.shields.io/github/commit-activity/m/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/commit-activity/m/alperyazar/notes.svg
     :alt: GitHub commit activity
-.. image:: https://img.shields.io/github/last-commit/alperyazar/comp.arch-notes/master.svg
+.. image:: https://img.shields.io/github/last-commit/alperyazar/notes/master.svg
     :alt: GitHub last commit (branch)
-.. image:: https://img.shields.io/github/contributors-anon/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/contributors-anon/alperyazar/notes.svg
     :alt: GitHub contributors
-.. image:: https://img.shields.io/github/issues-raw/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/issues-raw/alperyazar/notes.svg
     :alt: GitHub issues
-.. image:: https://img.shields.io/github/issues-closed-raw/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/issues-closed-raw/alperyazar/notes.svg
     :alt: GitHub closed issues
-.. image:: https://isitmaintained.com/badge/resolution/alperyazar/comp.arch-notes.svg
-    :alt: Average time to resolve an issue
-.. image:: https://img.shields.io/github/issues-pr-raw/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/issues-pr-raw/alperyazar/notes.svg
     :alt: GitHub pull requests
-.. image:: https://img.shields.io/github/issues-pr-closed-raw/alperyazar/comp.arch-notes.svg
+.. image:: https://img.shields.io/github/issues-pr-closed-raw/alperyazar/notes.svg
     :alt: GitHub closed pull requests
-
-.. [#] **comp.arch** is a Usenet group on computer architecture.
-       I choose this name as the short code.
