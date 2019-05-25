@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/alperyazar/notes.svg?branch=master)](https://travis-ci.com/alperyazar/notes)
 [![Documentation Status](https://readthedocs.org/projects/ayazars-notes/badge/?version=latest)](https://notes.ayazar.com)
-[![Website](https://img.shields.io/website/https/notes.ayazar.com.svg)](https://notes.ayazar.com)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m782745311-bcc4a6d05af2db9b7509b8a7.svg)
 [![GitHub License](https://img.shields.io/github/license/alperyazar/notes.svg?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/alperyazar/notes.svg)](https://github.com/alperyazar/notes/graphs/commit-activity)
@@ -19,13 +19,12 @@ your comments and corrections.
 
 ## Reading Notes
 
-[![Website](https://img.shields.io/website/https/notes.ayazar.com.svg)](https://notes.ayazar.com)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m782745311-bcc4a6d05af2db9b7509b8a7.svg)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m782745311-bcc4a6d05af2db9b7509b8a7.svg)
 
-Notes are compiled automatically by readthedocs.org and hosted on
-https://notes.ayazar.com OR
-https://n.ayazar.com
-https://ayazars-notes.readthedocs.io/ OR
-https://ayazars-notes.rtfd.io/
+https://notes.ayazar.com
+
+Notes are compiled automatically and hosted by readthedocs.org
 
 ## File Organization
 
