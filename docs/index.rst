@@ -74,7 +74,7 @@ Pages
 Project Statistics
 ==================
 
-.. image:: https://img.shields.io/uptimerobot/ratio/m782742743-72280f8f0a5703bb7ec4570b.svg
+.. image:: https://img.shields.io/uptimerobot/ratio/m782745311-bcc4a6d05af2db9b7509b8a7.svg
 	:alt: Uptime Robot ratio (30 days)
 .. image:: https://img.shields.io/github/repo-size/alperyazar/notes.svg
     :alt: GitHub repo size in bytes
